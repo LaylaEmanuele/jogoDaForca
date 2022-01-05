@@ -82,7 +82,7 @@ $ git clone git@github.com:LaylaEmanuele/jogoDaForca.git
 2. Create a new branch with your changes: `git checkout -b my-feature`
 3. Save your changes and create a commit message telling you what you did: `git commit -m" feature: My new feature "`
 4. Submit your changes: `git push origin my-feature`
-> If you have any questions check this [guide on how to contribute](./CONTRIBUTING.md)
+> If you have any questions get in touch
 
 ---
 
