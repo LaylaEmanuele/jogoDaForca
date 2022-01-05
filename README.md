@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-    Your waste collection marketplace. We help the planet to be cleaner!
+    The game to leave you speechless!
 </h3>
 
 <p align="center">
