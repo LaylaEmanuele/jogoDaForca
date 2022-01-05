@@ -292,8 +292,3 @@ This project is under the license [MIT](./LICENSE).
 
 Made with love by Thiago Marinho 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/tgmarinho/)
 
----
-
-##  Versions of README
-
-[Portuguese](./README.md)  |  [English without emojis](./README-en.md) | [Portugueses without logo](./README-sem-logo.md) 
