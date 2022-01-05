@@ -47,52 +47,17 @@
 
 ## About
 
-♻️ Ecoleta - is a way to connect companies and entities that collect organic and inorganic waste to people who need to dispose of their waste in an ecological way.
-Project developed during ** NLW - Next Level Week ** offered by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/). NLW is an online experience with lots of practical content, challenges and hacks where the content is available for a week.
+⎾ Hangman - is a guessing game for two players. One player enters a word and the other tries to guess it by suggesting letters within a certain number of guesses.
 
 ---
 
 ## How it works
 
-This project is divided into three parts:
-1. Backend (server folder)
-2. Frontend (web folder)
-3. Mobile (mobile folder)
-
-Both Frontend and Mobile need the Backend to be running to work.
+This project has just one part, was made in C, with study goals
 
 ### Pre-requisites
 
-Before you begin, you will need to have the following tools installed on your machine:
-[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
-In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
-
-#### Rodando o Backend (servidor)
-
-```bash
-
-# Clone this repository
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
-
-# Access the project folder cmd/terminal
-$ cd README-ecoleta
-
-# go to the server folder
-$ cd server
-
-# install the dependencies
-$ npm install
-
-# Run the application in development mode
-$ npm run dev:server
-
-# The server will start at port: 3333 - go to http://localhost:3333
-
-```
-<p align="center">
-  <a href="https://github.com/tgmarinho/README-ecoleta/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
+Before you begin, you will need to have the editor to work with the code like [VSCode] (https://code.visualstudio.com/) or other IDE to run the project.
 
 #### Running the web application (Frontend)
 
