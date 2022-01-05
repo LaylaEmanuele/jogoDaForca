@@ -45,12 +45,8 @@
 </h4>
 
 <p align="center">
- <a href="#about">About</a> •
- <a href="#features">Features</a> •
- <a href="#layout">Layout</a> • 
+ <a href="#about">About</a> • 
  <a href="#how-it-works">How it works</a> • 
- <a href="#tech-stack">Tech Stack</a> • 
- <a href="#contributors">Contributors</a> • 
  <a href="#author">Author</a> • 
  <a href="#user-content-license">License</a>
 
@@ -128,65 +124,6 @@ $ npm run start
 # The application will open on the port: 3000 - go to http://localhost:3000
 
 ```
-
----
-
-## Tech Stack
-
-The following tools were used in the construction of the project:
-
-#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
-
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[React Icons](https://react-icons.github.io/react-icons/)**
--   **[Axios](https://github.com/axios/axios)**
--   **[Leaflet](https://react-leaflet.js.org/en/)**
--   **[React Leaflet](https://react-leaflet.js.org/)**
--   **[React Dropzone](https://github.com/react-dropzone/react-dropzone)**
-
-> See the file  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
-
-#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
-
--   **[Express](https://expressjs.com/)**
--   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
--   **[KnexJS](http://knexjs.org/)**
--   **[SQLite](https://github.com/mapbox/node-sqlite3)**
--   **[ts-node](https://github.com/TypeStrong/ts-node)**
--   **[dotENV](https://github.com/motdotla/dotenv)**
--   **[Multer](https://github.com/expressjs/multer)**
--   **[Celebrate](https://github.com/arb/celebrate)**
--   **[Joi](https://github.com/hapijs/joi)**
-
-> See the file  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/server/package.json)
-
-#### [](https://github.com/tgmarinho/Ecoleta#mobile-react-native--typescript)**Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
-
--   **[Expo](https://expo.io/)**
--   **[Expo Google Fonts](https://github.com/expo/google-fonts)**
--   **[React Navigation](https://reactnavigation.org/)**
--   **[React Native Maps](https://github.com/react-native-community/react-native-maps)**
--   **[Expo Constants](https://docs.expo.io/versions/latest/sdk/constants/)**
--   **[React Native SVG](https://github.com/react-native-community/react-native-svg)**
--   **[Axios](https://github.com/axios/axios)**
--   **[Expo Location](https://docs.expo.io/versions/latest/sdk/location/)**
--   **[Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)**
-
-> See the file  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/mobile/package.json)
-
-#### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
-
--   Prototype:  **[Figma](https://www.figma.com/)**  →  **[Protótipo (Ecoleta)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta)**
--   API:  **[IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)**  →  **[API de UFs](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)**,  **[API de Municípios](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)**
--   Maps:  **[Leaflet](https://react-leaflet.js.org/en/)**
--   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
--   Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
--   Commit Conventional:  **[Commitlint](https://github.com/conventional-changelog/commitlint)**
--   API Test:  **[Insomnia](https://insomnia.rest/)**
--   Icons:  **[Feather Icons](https://feathericons.com/)**,  **[Font Awesome](https://fontawesome.com/)**
--   Fonts:  **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**,  **[Roboto](https://fonts.google.com/specimen/Roboto)**
-
-
 ---
 
 ## How to contribute
@@ -201,14 +138,10 @@ The following tools were used in the construction of the project:
 
 ## Author
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt="Thiago Marinho"/>
- <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat"></a>
- <br />
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69046321?s=96&v=4" width="100px;" alt="Layla Emanuele"/>
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Layla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/layla-emanuele/)](https://www.linkedin.com/in/layla-emanuele/) 
+[![Gmail Badge](https://img.shields.io/badge/-laylaemanuele@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laylaemanuele@gmail.com)](mailto:laylaemanuele@gmail.com)
 
 ---
 
@@ -216,5 +149,5 @@ The following tools were used in the construction of the project:
 
 This project is under the license [MIT](./LICENSE).
 
-Made with love by Layla Emanuele 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/tgmarinho/)
+Made with love by Layla Emanuele 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/layla-emanuele/)
 
