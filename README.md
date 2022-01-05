@@ -64,21 +64,14 @@ Before you begin, you will need to have the editor to work with the code like [V
 ```bash
 
 # Clone this repository
-$ git clone git@github.com: tgmarinho / README-ecoleta.git
 
-# Access the project folder in your terminal
-$ cd README-ecoleta
+$ git clone git@github.com:LaylaEmanuele/jogoDaForca.git
 
-# Go to the Front End application folder
-$ cd web
+# Access the project folder in your editor prefer
 
-# Install the dependencies
-$ npm install
+# Run the application
 
-# Run the application in development mode
-$ npm run start
-
-# The application will open on the port: 3000 - go to http://localhost:3000
+# The application will open on the .exe file
 
 ```
 ---
